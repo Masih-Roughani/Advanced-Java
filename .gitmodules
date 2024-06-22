@@ -1,3 +1,6 @@
 [submodule "Game-Preparation"]
 	path = Game-Preparation
 	url = https://github.com/Masih-Roughani/Game-Preparation.git
+[submodule "Concurrency"]
+	path = Concurrency
+	url = https://github.com/Masih-Roughani/Concurrency.git
